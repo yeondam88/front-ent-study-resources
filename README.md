@@ -27,3 +27,6 @@
 + [Awesomo JavsScript](https://github.com/lk-geimfari/awesomo/blob/master/languages/JAVASCRIPT.md)
 + [FE-Weekly by NHN](https://github.com/nhnent/fe.javascript/wiki/FE-Weekly)
 + [Front End Developer Handbook 2017](https://frontendmasters.gitbooks.io/front-end-handbook-2017)
+
+## Other usefull resources
++ [Create your own email address - Nuage](https://www.nuage.email/)
