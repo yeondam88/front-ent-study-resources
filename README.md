@@ -7,7 +7,6 @@
 + [Top Questions-reddit](https://www.reddit.com/r/javascript/comments/3rb88w/ten_questions_ive_been_asked_most_more_than_once/?st=ixw80ph7&sh=1b51907c)
 + [JavaScript interview exercises](https://github.com/csvenja/javascript-exercises)
 
-
 ## Angular Related
 + [AngularClass/awesome-angular2](https://github.com/AngularClass/awesome-angular2#material-design)
 + [ToddMotto Blog](https://toddmotto.com)
@@ -19,7 +18,6 @@
 + [React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)
 
 ## JavaScript Style Guide
-
 + [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 + [Airbnb JavaScript 스타일 가이드](https://github.com/tipjs/javascript-style-guide)
 
@@ -30,3 +28,5 @@
 
 ## Other usefull resources
 + [Create your own email address - Nuage](https://www.nuage.email/)
++ [PoiemaWeb - Learn HTML/CSS/JS](http://poiemaweb.com/)
++ [NHN Ent JavaScript Guide](https://github.com/nhnent/fe.javascript/wiki)
