@@ -9,14 +9,14 @@
 
 
 ## Angular Related
-
 + [AngularClass/awesome-angular2](https://github.com/AngularClass/awesome-angular2#material-design)
++ [ToddMotto Blog](https://toddmotto.com)
 
 
 ## React / Redux Related
 + [Redux Doc in Korean](http://dobbit.github.io/redux/api/createStore.html)
-
-
++ [Velopert Blog](https://www.velopert.com)
++ [React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)
 
 ## JavaScript Style Guide
 
@@ -26,3 +26,4 @@
 ## JavaScript Useful Libraries
 + [Awesomo JavsScript](https://github.com/lk-geimfari/awesomo/blob/master/languages/JAVASCRIPT.md)
 + [FE-Weekly by NHN](https://github.com/nhnent/fe.javascript/wiki/FE-Weekly)
++ [Front End Developer Handbook 2017](https://frontendmasters.gitbooks.io/front-end-handbook-2017)
