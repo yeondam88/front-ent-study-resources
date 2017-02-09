@@ -16,6 +16,8 @@
 + [Redux Doc in Korean](http://dobbit.github.io/redux/api/createStore.html)
 + [Velopert Blog](https://www.velopert.com)
 + [React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)
++ [React Interview Questions](https://medium.freecodecamp.com/react-interview-questions-c8a319ed02bd#.it7dbexvz)
++ [React Aha Moments](https://medium.freecodecamp.com/react-aha-moments-4b92bd36cc4e#.ikurkv6es)
 
 ## JavaScript Style Guide
 + [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
