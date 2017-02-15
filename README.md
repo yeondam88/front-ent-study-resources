@@ -32,4 +32,4 @@
 + [Create your own email address - Nuage](https://www.nuage.email/)
 + [PoiemaWeb - Learn HTML/CSS/JS](http://poiemaweb.com/)
 + [NHN Ent JavaScript Guide](https://github.com/nhnent/fe.javascript/wiki)
-+ [JavaScript Tips](http://www.jstips.co/en)
++ [JS Tips](http://www.jstips.co/)
