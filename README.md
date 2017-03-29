@@ -39,4 +39,5 @@
 + [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript#loading-status)
 + [Awesome JavaScript Learning](https://github.com/micromata/awesome-javascript-learning#dom-related)
 + [Become a Full Stack Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
++ [You might not need jQuery](http://youmightnotneedjquery.com/)
 
