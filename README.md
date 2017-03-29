@@ -34,3 +34,9 @@
 + [NHN Ent JavaScript Guide](https://github.com/nhnent/fe.javascript/wiki)
 + [JS Tips](http://www.jstips.co/)
 + [Web Gradients](https://webgradients.com/?ref=producthunt)
++ [13 Weeks of JavaScript](https://medium.com/@___aerox___/the-beginning-of-an-adventure-13-weeks-of-javascript-78107605d533)
++ [Awesome Front End Development](https://github.com/sindresorhus/awesome#front-end-development)
++ [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript#loading-status)
++ [Awesome JavaScript Learning](https://github.com/micromata/awesome-javascript-learning#dom-related)
++ [Become a Full Stack Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+
