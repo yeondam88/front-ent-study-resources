@@ -41,3 +41,6 @@
 + [Become a Full Stack Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 + [You might not need jQuery](http://youmightnotneedjquery.com/)
 
+## ng-conf-2017
++ [Angular Animation](http://slides.yearofmoo.com/ng-conf-2017-slides/#/0/0/)
++ [Angular Animation Demo](http://yom.nu/ng-conf-2017-demo)
