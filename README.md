@@ -11,6 +11,7 @@
 + [AngularClass/awesome-angular2](https://github.com/AngularClass/awesome-angular2#material-design)
 + [ToddMotto Blog](https://toddmotto.com)
 + [Helpful Angular Repo](https://www.reddit.com/r/Angular2/comments/5xrwwi/helpful_angular_2_github_repos_curated_through/)
++ [Awesome Angular Component](https://github.com/brillout/awesome-angular-components)
 
 
 ## React / Redux Related
