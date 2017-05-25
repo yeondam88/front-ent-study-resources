@@ -42,6 +42,9 @@
 + [Awesome JavaScript Learning](https://github.com/micromata/awesome-javascript-learning#dom-related)
 + [Become a Full Stack Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 + [You might not need jQuery](http://youmightnotneedjquery.com/)
++ [Best of JS from bestof.js.org](https://bestof.js.org)
++ [JavaScripting](https://javascripting.com)
++ [JavaScript Ranks](https://stats.js.org)
 
 ## ng-conf-2017
 + [Angular Animation](http://slides.yearofmoo.com/ng-conf-2017-slides/#/0/0/)
