@@ -31,6 +31,13 @@
 + [FE-Weekly by NHN](https://github.com/nhnent/fe.javascript/wiki/FE-Weekly)
 + [Front End Developer Handbook 2017](https://frontendmasters.gitbooks.io/front-end-handbook-2017)
 
+## JavaScript eBooks
++ [Eloquent JavaScript](http://eloquentjavascript.net/)
++ [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
++ [Learning JavaScript Design Pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
++ [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)
++ [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
+
 ## CSS Library
 + [MUI (Material Design CSS Lightweight Library](https://www.muicss.com/)
 + [Materialize CSS](http://materializecss.com/)
