@@ -58,6 +58,8 @@
 + [Best of JS from bestof.js.org](https://bestof.js.org)
 + [JavaScripting](https://javascripting.com)
 + [JavaScript Ranks](https://stats.js.org)
++ [Codeburst](https://codeburst.io)
++ [Tutorialzine](https://tutorialzine.com)
 
 ## ng-conf-2017
 + [Angular Animation](http://slides.yearofmoo.com/ng-conf-2017-slides/#/0/0/)
