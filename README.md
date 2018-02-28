@@ -60,6 +60,7 @@
 + [JavaScript Ranks](https://stats.js.org)
 + [Codeburst](https://codeburst.io)
 + [Tutorialzine](https://tutorialzine.com)
++ [JSDEV.KR](https://jsdev.kr) Korean JS dev forum
 
 ## ng-conf-2017
 + [Angular Animation](http://slides.yearofmoo.com/ng-conf-2017-slides/#/0/0/)
