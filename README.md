@@ -6,6 +6,7 @@
 + [JS: Interview Algorithm](http://thatjsdude.com/interview/js1.html)
 + [Top Questions-reddit](https://www.reddit.com/r/javascript/comments/3rb88w/ten_questions_ive_been_asked_most_more_than_once/?st=ixw80ph7&sh=1b51907c)
 + [JavaScript interview exercises](https://github.com/csvenja/javascript-exercises)
++ [Cracking the front end interview](https://medium.freecodecamp.org/cracking-the-front-end-interview-9a34cd46237)
 
 ## Angular Related
 + [AngularClass/awesome-angular2](https://github.com/AngularClass/awesome-angular2#material-design)
