@@ -61,6 +61,7 @@
 + [Codeburst](https://codeburst.io)
 + [Tutorialzine](https://tutorialzine.com)
 + [JSDEV.KR](https://jsdev.kr) Korean JS dev forum
++ [Codementor blog](https://codementor.io)
 
 ## ng-conf-2017
 + [Angular Animation](http://slides.yearofmoo.com/ng-conf-2017-slides/#/0/0/)
