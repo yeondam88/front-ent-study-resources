@@ -71,3 +71,6 @@
 ## ng-conf-2017
 + [Angular Animation](http://slides.yearofmoo.com/ng-conf-2017-slides/#/0/0/)
 + [Angular Animation Demo](http://yom.nu/ng-conf-2017-demo)
+
+## Inspiring Stories
++ [How I landed a full stack developer job without a tech degree or work experience](https://medium.freecodecamp.org/how-i-landed-a-full-stack-developer-job-without-a-tech-degree-or-work-experience-6add97be2051)
