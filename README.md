@@ -32,6 +32,7 @@
 + [FE-Weekly by NHN](https://github.com/nhnent/fe.javascript/wiki/FE-Weekly)
 + [Front End Developer Handbook 2017](https://frontendmasters.gitbooks.io/front-end-handbook-2017)
 + [Pose - Animation library](https://popmotion.io/pose)
++ [CSS Variable compatible JS parallax library](https://basicscroll.electerious.com/)
 
 ## JavaScript eBooks
 + [Eloquent JavaScript](http://eloquentjavascript.net/)
