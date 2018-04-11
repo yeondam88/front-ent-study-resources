@@ -69,6 +69,8 @@
 + [Codementor blog](https://codementor.io)
 + [Scotch.io](https://scotch.io)
 + [Hackernoon](https://hackernoon.com/)
++ [javascript Info](https://javascript.info)
++ [Coding Phase](https://codingphase.com)
 
 ## ng-conf-2017
 + [Angular Animation](http://slides.yearofmoo.com/ng-conf-2017-slides/#/0/0/)
