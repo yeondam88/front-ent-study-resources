@@ -22,6 +22,7 @@
 + [React Interview Questions](https://medium.freecodecamp.com/react-interview-questions-c8a319ed02bd#.it7dbexvz)
 + [React Aha Moments](https://medium.freecodecamp.com/react-aha-moments-4b92bd36cc4e#.ikurkv6es)
 + [Material-UI (React UI Library)](http://www.material-ui.com/#/)
++ [React Router](https://reacttraining.com/react-router/core/guides/philosophy)
 
 ## JavaScript Style Guide
 + [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
