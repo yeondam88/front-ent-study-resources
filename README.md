@@ -85,3 +85,8 @@
 ## Deployment
 + [Heroku](https://heroku.com)
 + [Surge](https://surge.sh)
+
+## Awesome Youtube Channel for follow
++ [Travery Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
++ [Colt Steele](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw)
++ [Net Ninja](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw)
