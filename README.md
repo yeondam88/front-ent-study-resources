@@ -90,3 +90,8 @@
 + [Travery Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 + [Colt Steele](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw)
 + [Net Ninja](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw)
+
+## JavaScript Machine Learning Libraries
++ [Brain](https://github.com/harthur-org/brain.js/)
++ [Deep Playground](https://github.com/tensorflow/playground)
++ [ConvNetJS](https://github.com/karpathy/convnetjs)
