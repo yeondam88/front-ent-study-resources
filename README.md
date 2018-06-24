@@ -72,6 +72,7 @@
 + [javascript Info](https://javascript.info)
 + [Coding Phase](https://codingphase.com)
 + [Kirupa](https://kirupa.com)
++ [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms#readme)
 
 ## ng-conf-2017
 + [Angular Animation](http://slides.yearofmoo.com/ng-conf-2017-slides/#/0/0/)
