@@ -79,6 +79,7 @@
 + [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms#readme)
 + [Understanding Object Oriented Javascript](https://dev.to/donita/understanding-object-oriented-javascript-e47)
 + [Ultimate Guide to Learning fullstack web dev](https://codeburst.io/the-ultimate-guide-to-learning-full-stack-web-development-in-6-months-for-30-72b3854a7458)
++ [Relational Database Fundamentals](https://dev.to/helenanders26/relational-database-fundamentals-34k3)
 
 ## ng-conf-2017
 + [Angular Animation](http://slides.yearofmoo.com/ng-conf-2017-slides/#/0/0/)
