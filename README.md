@@ -7,6 +7,7 @@
 + [Top Questions-reddit](https://www.reddit.com/r/javascript/comments/3rb88w/ten_questions_ive_been_asked_most_more_than_once/?st=ixw80ph7&sh=1b51907c)
 + [JavaScript interview exercises](https://github.com/csvenja/javascript-exercises)
 + [Cracking the front end interview](https://medium.freecodecamp.org/cracking-the-front-end-interview-9a34cd46237)
++ [30 seconds of Interview](https://30secondsofinterviews.org/)
 
 ## Angular Related
 + [AngularClass/awesome-angular2](https://github.com/AngularClass/awesome-angular2#material-design)
@@ -94,6 +95,7 @@
 ## Deployment
 + [Heroku](https://heroku.com)
 + [Surge](https://surge.sh)
++ [Netlify](https://netlify.com)
 
 ## Awesome Youtube Channel for follow
 + [Travery Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
@@ -104,3 +106,6 @@
 + [Brain](https://github.com/harthur-org/brain.js/)
 + [Deep Playground](https://github.com/tensorflow/playground)
 + [ConvNetJS](https://github.com/karpathy/convnetjs)
+
+## Web Development Podcast
++ [Syntax](https://syntax.fm)
