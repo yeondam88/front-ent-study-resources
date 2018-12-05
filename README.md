@@ -8,6 +8,7 @@
 + [JavaScript interview exercises](https://github.com/csvenja/javascript-exercises)
 + [Cracking the front end interview](https://medium.freecodecamp.org/cracking-the-front-end-interview-9a34cd46237)
 + [30 seconds of Interview](https://30secondsofinterviews.org/)
++ [How to ace the whiteboard coding interview](https://www.youtube.com/watch?v=51gc7-eskU8)
 
 ## Angular Related
 + [AngularClass/awesome-angular2](https://github.com/AngularClass/awesome-angular2#material-design)
@@ -25,6 +26,7 @@
 + [Material-UI (React UI Library)](http://www.material-ui.com/#/)
 + [React Router](https://reacttraining.com/react-router/core/guides/philosophy)
 + [Learn Basic React](https://www.taniarascia.com/getting-started-with-react/)
++ [React Hooks - rehooks repo](https://github.com/rehooks)
 
 ## JavaScript Style Guide
 + [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
