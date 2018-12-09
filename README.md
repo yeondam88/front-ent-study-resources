@@ -112,3 +112,5 @@
 
 ## Web Development Podcast
 + [Syntax](https://syntax.fm)
++ [React Podcast](https://reactpodcast.simplecast.fm/)
++ [Software Engineering](https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/)
