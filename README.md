@@ -85,6 +85,8 @@
 + [Ultimate Guide to Learning fullstack web dev](https://codeburst.io/the-ultimate-guide-to-learning-full-stack-web-development-in-6-months-for-30-72b3854a7458)
 + [Relational Database Fundamentals](https://dev.to/helenanders26/relational-database-fundamentals-34k3)
 + [Awesome Style Guide](https://github.com/streamich/awesome-styleguides)
++ [Understand CSS Position absolute](https://medium.freecodecamp.org/how-to-understand-css-position-absolute-once-and-for-all-b71ca10cd3fd?fbclid=IwAR1TskCGA1kEViE-x3WNQIz_WhLYTUgj3wR-0SLvCTjN7Q6VDb3-CAZFieU)
++ [How to write Error messages](https://medium.freecodecamp.org/how-to-write-error-messages-that-dont-suck-f31c53b64c3e?fbclid=IwAR1WgpNQ0aKvcg4YyF-o0n9eNiKELBZXITtLgP1rlmtynpXltwRoAOlrXzY)
 
 ## ng-conf-2017
 + [Angular Animation](http://slides.yearofmoo.com/ng-conf-2017-slides/#/0/0/)
