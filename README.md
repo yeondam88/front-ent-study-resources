@@ -87,6 +87,8 @@
 + [Awesome Style Guide](https://github.com/streamich/awesome-styleguides)
 + [Understand CSS Position absolute](https://medium.freecodecamp.org/how-to-understand-css-position-absolute-once-and-for-all-b71ca10cd3fd?fbclid=IwAR1TskCGA1kEViE-x3WNQIz_WhLYTUgj3wR-0SLvCTjN7Q6VDb3-CAZFieU)
 + [How to write Error messages](https://medium.freecodecamp.org/how-to-write-error-messages-that-dont-suck-f31c53b64c3e?fbclid=IwAR1WgpNQ0aKvcg4YyF-o0n9eNiKELBZXITtLgP1rlmtynpXltwRoAOlrXzY)
++ [JavaScript fundamentals](https://medium.freecodecamp.org/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf)
++ [Front-End Dev Cheat Sheet](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
 
 ## ng-conf-2017
 + [Angular Animation](http://slides.yearofmoo.com/ng-conf-2017-slides/#/0/0/)
