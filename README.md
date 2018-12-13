@@ -9,6 +9,7 @@
 + [Cracking the front end interview](https://medium.freecodecamp.org/cracking-the-front-end-interview-9a34cd46237)
 + [30 seconds of Interview](https://30secondsofinterviews.org/)
 + [How to ace the whiteboard coding interview](https://www.youtube.com/watch?v=51gc7-eskU8)
++ [A developer's guide to interviewing](https://medium.freecodecamp.org/how-to-interview-as-a-developer-candidate-b666734f12dd)
 
 ## Angular Related
 + [AngularClass/awesome-angular2](https://github.com/AngularClass/awesome-angular2#material-design)
@@ -27,6 +28,7 @@
 + [React Router](https://reacttraining.com/react-router/core/guides/philosophy)
 + [Learn Basic React](https://www.taniarascia.com/getting-started-with-react/)
 + [React Hooks - rehooks repo](https://github.com/rehooks)
++ [Writeing Custom React Hooks](https://medium.com/open-graphql/react-hooks-for-graphql-3fa8ebdd6c62)
 
 ## JavaScript Style Guide
 + [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
@@ -89,6 +91,7 @@
 + [How to write Error messages](https://medium.freecodecamp.org/how-to-write-error-messages-that-dont-suck-f31c53b64c3e?fbclid=IwAR1WgpNQ0aKvcg4YyF-o0n9eNiKELBZXITtLgP1rlmtynpXltwRoAOlrXzY)
 + [JavaScript fundamentals](https://medium.freecodecamp.org/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf)
 + [Front-End Dev Cheat Sheet](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
++ [Neat JavaScript tricks](https://medium.freecodecamp.org/9-neat-javascript-tricks-e2742f2735c3?fbclid=IwAR35Yj24OIeSqfQYC32BAhU73U5xQWAqIYmWvd3fB7qk3kC7B2gLge2qN-c)
 
 ## ng-conf-2017
 + [Angular Animation](http://slides.yearofmoo.com/ng-conf-2017-slides/#/0/0/)
