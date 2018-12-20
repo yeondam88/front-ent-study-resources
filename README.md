@@ -92,6 +92,7 @@
 + [JavaScript fundamentals](https://medium.freecodecamp.org/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf)
 + [Front-End Dev Cheat Sheet](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
 + [Neat JavaScript tricks](https://medium.freecodecamp.org/9-neat-javascript-tricks-e2742f2735c3?fbclid=IwAR35Yj24OIeSqfQYC32BAhU73U5xQWAqIYmWvd3fB7qk3kC7B2gLge2qN-c)
++ [고퀄리티 리포](https://github.com/Integerous/goQuality-dev-contents)
 
 ## ng-conf-2017
 + [Angular Animation](http://slides.yearofmoo.com/ng-conf-2017-slides/#/0/0/)
