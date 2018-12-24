@@ -93,6 +93,10 @@
 + [Front-End Dev Cheat Sheet](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
 + [Neat JavaScript tricks](https://medium.freecodecamp.org/9-neat-javascript-tricks-e2742f2735c3?fbclid=IwAR35Yj24OIeSqfQYC32BAhU73U5xQWAqIYmWvd3fB7qk3kC7B2gLge2qN-c)
 + [고퀄리티 리포](https://github.com/Integerous/goQuality-dev-contents)
++ [Python Bot Tutorial](https://medium.freecodecamp.org/learn-to-build-your-first-bot-in-telegram-with-python-4c99526765e4)
++ [JavaScript Inheritance and the prototype](https://medium.freecodecamp.org/javascript-inheritance-and-the-prototype-chain-d4298619bdae)
++ [Collection of UI](https://interfacer.xyz/?ref=producthunt)
+
 
 ## ng-conf-2017
 + [Angular Animation](http://slides.yearofmoo.com/ng-conf-2017-slides/#/0/0/)
