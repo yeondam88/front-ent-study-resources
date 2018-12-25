@@ -116,6 +116,14 @@
 + [Travery Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 + [Colt Steele](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw)
 + [Net Ninja](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw)
++ [Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
++ [Derek Banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw)
++ [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
++ [Devtips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
++ [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg)
++ [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
++ [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
++ [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
 
 ## JavaScript Machine Learning Libraries
 + [Brain](https://github.com/harthur-org/brain.js/)
