@@ -29,6 +29,7 @@
 + [Learn Basic React](https://www.taniarascia.com/getting-started-with-react/)
 + [React Hooks - rehooks repo](https://github.com/rehooks)
 + [Writeing Custom React Hooks](https://medium.com/open-graphql/react-hooks-for-graphql-3fa8ebdd6c62)
++ [Next.js tutorial](https://medium.freecodecamp.org/an-introduction-to-next-js-for-everyone-507d2d90ab54?fbclid=IwAR0PNX4TmIwS13ShYwQ0n04MFphOpDAwdEi6ZLQFXc2omFGvLnQVEqW9uXA)
 
 ## JavaScript Style Guide
 + [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
@@ -96,6 +97,7 @@
 + [Python Bot Tutorial](https://medium.freecodecamp.org/learn-to-build-your-first-bot-in-telegram-with-python-4c99526765e4)
 + [JavaScript Inheritance and the prototype](https://medium.freecodecamp.org/javascript-inheritance-and-the-prototype-chain-d4298619bdae)
 + [Collection of UI](https://interfacer.xyz/?ref=producthunt)
++ [Typescript Cheatsheet](https://www.sitepen.com/blog/2018/10/10/typescript-cheat-sheet?fbclid=IwAR2Gf90c98GBZPcmepvF2jmx54Zjfcp5i1aOt4zKoZyXKKSviuP0GPa25r4)
 
 
 ## ng-conf-2017
