@@ -98,6 +98,8 @@
 + [JavaScript Inheritance and the prototype](https://medium.freecodecamp.org/javascript-inheritance-and-the-prototype-chain-d4298619bdae)
 + [Collection of UI](https://interfacer.xyz/?ref=producthunt)
 + [Typescript Cheatsheet](https://www.sitepen.com/blog/2018/10/10/typescript-cheat-sheet?fbclid=IwAR2Gf90c98GBZPcmepvF2jmx54Zjfcp5i1aOt4zKoZyXKKSviuP0GPa25r4)
++ [JavaScript Cheatsheet](https://raw.githubusercontent.com/frontarm/async-javascript-cheatsheet/master/async-cheatsheet.png?fbclid=IwAR3ypmdBigrSns4QO4ej5EKqI_csLBhvvN3Dsbs4L2iXukWuJCru3sKR3Vk)
++ [JWT Authenticate](https://buff.ly/2Ok1OpG?fbclid=IwAR22KOCnPwOEwqhvnjHJ5RKEq91BnRaywB2JUqh37mMf60diI8O3PQhQAxU)
 
 
 ## ng-conf-2017
