@@ -146,3 +146,4 @@
 ## 한국어 번역 개발 컨텐츠
 + [[번역] OOP를 빨리 잊을 수록 여러분과 여러분의 소프트웨어에 좋습니다](https://adhrinae.github.io/posts/the-faster-you-unlearn-oop-the-better-for-you-and-your-software-kr)
 + [훌륭한 자바스크립트 개발자가 되는법](https://brunch.co.kr/@chiyodad/9)
++ [2018년에 내가 모르는 기술들..](https://overreacted.io/ko/things-i-dont-know-as-of-2018/)
