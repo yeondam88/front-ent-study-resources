@@ -28,6 +28,7 @@
 + [React Router](https://reacttraining.com/react-router/core/guides/philosophy)
 + [Learn Basic React](https://www.taniarascia.com/getting-started-with-react/)
 + [React Hooks - rehooks repo](https://github.com/rehooks)
++ [React Context](https://dev.to/gugadev/react---context-api-490)
 + [Writeing Custom React Hooks](https://medium.com/open-graphql/react-hooks-for-graphql-3fa8ebdd6c62)
 + [Next.js tutorial](https://medium.freecodecamp.org/an-introduction-to-next-js-for-everyone-507d2d90ab54?fbclid=IwAR0PNX4TmIwS13ShYwQ0n04MFphOpDAwdEi6ZLQFXc2omFGvLnQVEqW9uXA)
 
