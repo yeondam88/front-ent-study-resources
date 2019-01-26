@@ -105,6 +105,8 @@
 + [Public API collections](https://public-apis.xyz/)
 + [Blob Maker](https://www.blobmaker.app/)
 + [Wefreelancing](http://wefreelancing.com/)
++ [Develop Nodejs with Docker](https://hackernoon.com/a-better-way-to-develop-node-js-with-docker-cd29d3a0093)
++ [A Complete Guide To Deploying Your Web App To Amazon Web Service](https://t.co/nvPIQFuGoT)
 
 
 ## ng-conf-2017
