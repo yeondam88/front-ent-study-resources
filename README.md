@@ -107,6 +107,7 @@
 + [Wefreelancing](http://wefreelancing.com/)
 + [Develop Nodejs with Docker](https://hackernoon.com/a-better-way-to-develop-node-js-with-docker-cd29d3a0093)
 + [A Complete Guide To Deploying Your Web App To Amazon Web Service](https://t.co/nvPIQFuGoT)
++ [The JavaScript Prototypal Inheritance Pattern](https://alligator.io/js/prototypal-pattern/)
 
 
 ## ng-conf-2017
