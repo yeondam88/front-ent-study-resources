@@ -138,6 +138,9 @@
 + [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 + [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
 
+## Awesome Github Repos
++ [Awesome Developer Streams](https://github.com/bnb/awesome-developer-streams)
+
 ## JavaScript Machine Learning Libraries
 + [Brain](https://github.com/harthur-org/brain.js/)
 + [Deep Playground](https://github.com/tensorflow/playground)
