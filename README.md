@@ -109,7 +109,8 @@
 + [A Complete Guide To Deploying Your Web App To Amazon Web Service](https://t.co/nvPIQFuGoT)
 + [The JavaScript Prototypal Inheritance Pattern](https://alligator.io/js/prototypal-pattern/)
 + [What is React Hooks?](https://www.robinwieruch.de/react-hooks/)
-
++ [Wordpress Headless API with React](https://www.youtube.com/watch?v=fFNXWinbgro&t=418s)
++ [React Hooks with Kent C. Dodd](https://www.youtube.com/watch?v=h9qHKDlsnP0)
 
 ## ng-conf-2017
 + [Angular Animation](http://slides.yearofmoo.com/ng-conf-2017-slides/#/0/0/)
