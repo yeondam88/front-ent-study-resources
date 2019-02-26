@@ -113,6 +113,7 @@
 + [What is React Hooks?](https://www.robinwieruch.de/react-hooks/)
 + [Wordpress Headless API with React](https://www.youtube.com/watch?v=fFNXWinbgro&t=418s)
 + [React Hooks with Kent C. Dodd](https://www.youtube.com/watch?v=h9qHKDlsnP0)
++ [JavaScript Basics Before You Learn React](https://morioh.com/p/fb839c7da909/javascript-basics-before-you-learn-react?fbclid=IwAR1gWICZ5PVQItJ_XrFFdGONfzCJkVYL-KXV4XjOI2K6PiNDksKBcyCY6yk)
 
 ## ng-conf-2017
 + [Angular Animation](http://slides.yearofmoo.com/ng-conf-2017-slides/#/0/0/)
