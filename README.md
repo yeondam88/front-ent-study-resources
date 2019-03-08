@@ -115,6 +115,7 @@
 + [React Hooks with Kent C. Dodd](https://www.youtube.com/watch?v=h9qHKDlsnP0)
 + [JavaScript Basics Before You Learn React](https://morioh.com/p/fb839c7da909/javascript-basics-before-you-learn-react?fbclid=IwAR1gWICZ5PVQItJ_XrFFdGONfzCJkVYL-KXV4XjOI2K6PiNDksKBcyCY6yk)
 + [Ultimate JavaScript Algorithm Guide](https://scotch.io/courses/the-ultimate-guide-to-javascript-algorithms/falsy-bouncer)
++ [Creating a REST API with Express and MongoDB](https://www.robinwieruch.de/mongodb-express-node-rest-api/)
 
 ## ng-conf-2017
 + [Angular Animation](http://slides.yearofmoo.com/ng-conf-2017-slides/#/0/0/)
