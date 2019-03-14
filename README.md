@@ -33,6 +33,7 @@
 + [Next.js tutorial](https://medium.freecodecamp.org/an-introduction-to-next-js-for-everyone-507d2d90ab54?fbclid=IwAR0PNX4TmIwS13ShYwQ0n04MFphOpDAwdEi6ZLQFXc2omFGvLnQVEqW9uXA)
 + [React with Wordpress](https://www.iamtimsmith.com/blog/using-wordpress-with-react/)
 + [React Dropzone](https://upmostly.com/tutorials/react-dropzone-file-uploads-react/)
++ [JavaScript Basics before React](https://morioh.com/p/fb839c7da909/javascript-basics-before-you-learn-react?fbclid=IwAR0lvtVeFIwkzgUUl5_TqOuFBUomrQzfKv-NIp5rARWIVL0__DxH578H9aE)
 
 ## JavaScript Style Guide
 + [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
