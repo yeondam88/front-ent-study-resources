@@ -117,6 +117,9 @@
 + [JavaScript Basics Before You Learn React](https://morioh.com/p/fb839c7da909/javascript-basics-before-you-learn-react?fbclid=IwAR1gWICZ5PVQItJ_XrFFdGONfzCJkVYL-KXV4XjOI2K6PiNDksKBcyCY6yk)
 + [Ultimate JavaScript Algorithm Guide](https://scotch.io/courses/the-ultimate-guide-to-javascript-algorithms/falsy-bouncer)
 + [Creating a REST API with Express and MongoDB](https://www.robinwieruch.de/mongodb-express-node-rest-api/)
++ [ES6 Modules In Node Tutorial With Example](https://appdividend.com/2019/03/13/es6-modules-in-node-tutorial-with-example/)
++ [Introduction to Iterables and Iterators in JavaScript
+](https://alligator.io/js/iterables/)
 
 ## ng-conf-2017
 + [Angular Animation](http://slides.yearofmoo.com/ng-conf-2017-slides/#/0/0/)
