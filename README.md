@@ -34,6 +34,8 @@
 + [React with Wordpress](https://www.iamtimsmith.com/blog/using-wordpress-with-react/)
 + [React Dropzone](https://upmostly.com/tutorials/react-dropzone-file-uploads-react/)
 + [JavaScript Basics before React](https://morioh.com/p/fb839c7da909/javascript-basics-before-you-learn-react?fbclid=IwAR0lvtVeFIwkzgUUl5_TqOuFBUomrQzfKv-NIp5rARWIVL0__DxH578H9aE)
++ [How to understand a component’s lifecycle methods in ReactJS](https://medium.freecodecamp.org/how-to-understand-a-components-lifecycle-methods-in-reactjs-e1a609840630?gi=55a10f615f24)
++ [Scheduling in React](https://philippspiess.com/scheduling-in-react/)
 
 ## JavaScript Style Guide
 + [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
