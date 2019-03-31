@@ -36,6 +36,7 @@
 + [JavaScript Basics before React](https://morioh.com/p/fb839c7da909/javascript-basics-before-you-learn-react?fbclid=IwAR0lvtVeFIwkzgUUl5_TqOuFBUomrQzfKv-NIp5rARWIVL0__DxH578H9aE)
 + [How to understand a component’s lifecycle methods in ReactJS](https://medium.freecodecamp.org/how-to-understand-a-components-lifecycle-methods-in-reactjs-e1a609840630?gi=55a10f615f24)
 + [Scheduling in React](https://philippspiess.com/scheduling-in-react/)
++ [React Dashboard](https://vibe.nicedash.com/home)
 
 ## JavaScript Style Guide
 + [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
@@ -122,6 +123,8 @@
 + [ES6 Modules In Node Tutorial With Example](https://appdividend.com/2019/03/13/es6-modules-in-node-tutorial-with-example/)
 + [Introduction to Iterables and Iterators in JavaScript
 ](https://alligator.io/js/iterables/)
++ [33 Web tools for developer](https://www.codewall.co.uk/best-online-web-tools-for-web-developers-and-programmers/?utm_source=CWTwitter&utm_medium=social)
+
 
 ## ng-conf-2017
 + [Angular Animation](http://slides.yearofmoo.com/ng-conf-2017-slides/#/0/0/)
