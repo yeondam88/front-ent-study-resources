@@ -37,6 +37,7 @@
 + [How to understand a component’s lifecycle methods in ReactJS](https://medium.freecodecamp.org/how-to-understand-a-components-lifecycle-methods-in-reactjs-e1a609840630?gi=55a10f615f24)
 + [Scheduling in React](https://philippspiess.com/scheduling-in-react/)
 + [React Dashboard](https://vibe.nicedash.com/home)
++ [React Rotating Text](https://github.com/adrianmcli/react-rotating-text)
 
 ## JavaScript Style Guide
 + [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
