@@ -128,6 +128,7 @@
 
 ## PHP
 + [Laracast](https://laracast.com)
++ [Laravel Korea group](https://laravel.kr)
 
 ## ng-conf-2017
 + [Angular Animation](http://slides.yearofmoo.com/ng-conf-2017-slides/#/0/0/)
