@@ -126,6 +126,8 @@
 ](https://alligator.io/js/iterables/)
 + [33 Web tools for developer](https://www.codewall.co.uk/best-online-web-tools-for-web-developers-and-programmers/?utm_source=CWTwitter&utm_medium=social)
 
+## PHP
++ [Laracast](https://laracast.com)
 
 ## ng-conf-2017
 + [Angular Animation](http://slides.yearofmoo.com/ng-conf-2017-slides/#/0/0/)
