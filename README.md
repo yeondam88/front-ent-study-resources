@@ -125,6 +125,8 @@
 + [Introduction to Iterables and Iterators in JavaScript
 ](https://alligator.io/js/iterables/)
 + [33 Web tools for developer](https://www.codewall.co.uk/best-online-web-tools-for-web-developers-and-programmers/?utm_source=CWTwitter&utm_medium=social)
++ [Free Dev Tutorials by Microsoft](https://developer.microsoft.com/en-us/collective/learning/courses?utm_campaign=DC19&utm_source=Twitter&utm_medium=Social&utm_content=CC35_videocard&utm_term=Grow)
++ [CSS Hover Image Effects For 2018](https://www.codewall.co.uk/css-hover-image-effects-for-2018/?utm_source=CWTwitter&utm_medium=social)
 
 ## PHP
 + [Laracast](https://laracast.com)
