@@ -127,6 +127,7 @@
 + [33 Web tools for developer](https://www.codewall.co.uk/best-online-web-tools-for-web-developers-and-programmers/?utm_source=CWTwitter&utm_medium=social)
 + [Free Dev Tutorials by Microsoft](https://developer.microsoft.com/en-us/collective/learning/courses?utm_campaign=DC19&utm_source=Twitter&utm_medium=Social&utm_content=CC35_videocard&utm_term=Grow)
 + [CSS Hover Image Effects For 2018](https://www.codewall.co.uk/css-hover-image-effects-for-2018/?utm_source=CWTwitter&utm_medium=social)
++ [Front End Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
 
 ## PHP
 + [Laracast](https://laracast.com)
