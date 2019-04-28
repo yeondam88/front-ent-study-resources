@@ -182,5 +182,3 @@
 + [FED 번역 저장소](https://fedevelopers.github.io/tech.description/?fbclid=IwAR15mPCW7wmrxs0zNhIy9KAQr6-0NXbD623fCyu5dFBViwooROsMChjo7Rw)
 
 
-## TODO:
-- Make a gatsby site with this resources
