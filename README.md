@@ -63,6 +63,7 @@
 + [JavaScript Basics Before You Learn React](https://morioh.com/p/fb839c7da909/javascript-basics-before-you-learn-react?fbclid=IwAR1gWICZ5PVQItJ_XrFFdGONfzCJkVYL-KXV4XjOI2K6PiNDksKBcyCY6yk)
 + [Ultimate JavaScript Algorithm Guide](https://scotch.io/courses/the-ultimate-guide-to-javascript-algorithms/falsy-bouncer)
 + [ES6 Modules In Node Tutorial With Example](https://appdividend.com/2019/03/13/es6-modules-in-node-tutorial-with-example/)
++ [The Visual Guide to JavaScript Variable Definitions & Scope](https://medium.freecodecamp.org/the-visual-guide-to-javascript-variable-definitions-scope-2717ad9f0169)
 
 ## JavaScript Style Guide
 + [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
