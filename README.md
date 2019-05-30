@@ -39,6 +39,7 @@
 + [React Dashboard](https://vibe.nicedash.com/home)
 + [React Rotating Text](https://github.com/adrianmcli/react-rotating-text)
 + [What I’ve Learned Building 4 React Native Apps Over 3 Years](https://medium.com/input-logic/what-ive-learned-building-4-react-native-apps-over-3-years-6b5035f8282d)
++ [A 2 Hour GraphQL Course for React Developers :](https://learn.hasura.io/graphql/react/introduction)
 
 ## JavaScript Related
 + [NHN Ent JavaScript Guide](https://github.com/nhnent/fe.javascript/wiki)
