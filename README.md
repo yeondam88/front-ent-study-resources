@@ -134,6 +134,7 @@
 + [Free Dev Tutorials by Microsoft](https://developer.microsoft.com/en-us/collective/learning/courses?utm_campaign=DC19&utm_source=Twitter&utm_medium=Social&utm_content=CC35_videocard&utm_term=Grow)
 + [CSS Hover Image Effects For 2018](https://www.codewall.co.uk/css-hover-image-effects-for-2018/?utm_source=CWTwitter&utm_medium=social)
 + [Front End Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
++ [From a python project to an open source package: an A to Z guide](https://medium.com/free-code-camp/from-a-python-project-to-an-open-source-package-an-a-to-z-guide-c34cb7139a22)
 
 ## PHP
 + [Laracast](https://laracast.com)
