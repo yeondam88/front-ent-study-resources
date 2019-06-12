@@ -67,6 +67,7 @@
 + [ES6 Modules In Node Tutorial With Example](https://appdividend.com/2019/03/13/es6-modules-in-node-tutorial-with-example/)
 + [The Visual Guide to JavaScript Variable Definitions & Scope](https://medium.freecodecamp.org/the-visual-guide-to-javascript-variable-definitions-scope-2717ad9f0169)
 + [scenejs](https://github.com/daybrush/scenejs)
++ [JS 101 functions](https://dev.to/karaluton/javascript-101-breaking-down-functions-4p34)
 
 ## JavaScript Style Guide
 + [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
