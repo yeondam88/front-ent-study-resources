@@ -70,6 +70,7 @@
 + [scenejs](https://github.com/daybrush/scenejs)
 + [JS 101 functions](https://dev.to/karaluton/javascript-101-breaking-down-functions-4p34)
 + [Closures and Currying in JavaScript](https://scotch.io/tutorials/closures-and-currying-in-javascript)
++ [Fullstak application with React](https://www.youtube.com/watch?v=m_u6P5k0vP0&t=57s)
 
 ## JavaScript Style Guide
 + [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
