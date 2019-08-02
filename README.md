@@ -139,6 +139,8 @@
 + [CSS Hover Image Effects For 2018](https://www.codewall.co.uk/css-hover-image-effects-for-2018/?utm_source=CWTwitter&utm_medium=social)
 + [Front End Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
 + [From a python project to an open source package: an A to Z guide](https://medium.com/free-code-camp/from-a-python-project-to-an-open-source-package-an-a-to-z-guide-c34cb7139a22)
++ [How to implement a simple hash table in JavaScript](https://www.freecodecamp.org/news/how-to-implement-a-simple-hash-table-in-javascript-cb3b9c1f2997/)
++ [Master the art of looping in JavaScript with these incredible tricks](https://www.freecodecamp.org/news/master-the-art-of-looping-in-javascript-with-these-incredible-tricks-a5da1aa1d6c5/)
 
 ## PHP
 + [Laracast](https://laracast.com)
