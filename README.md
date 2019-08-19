@@ -11,6 +11,7 @@
 + [How to ace the whiteboard coding interview](https://www.youtube.com/watch?v=51gc7-eskU8)
 + [A developer's guide to interviewing](https://medium.freecodecamp.org/how-to-interview-as-a-developer-candidate-b666734f12dd)
 + [9 JavaScript Interview Questions](https://medium.com/@bretcameron/9-javascript-interview-questions-48416366852b?fbclid=IwAR04KRQTk_7ujWXvjP_MxWjTnahUARabRm0zbYPsvEdOgoD0Z7lHDDpeTuc)
++ [Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
 
 ## Angular Related
 + [AngularClass/awesome-angular2](https://github.com/AngularClass/awesome-angular2#material-design)
@@ -142,6 +143,7 @@
 + [From a python project to an open source package: an A to Z guide](https://medium.com/free-code-camp/from-a-python-project-to-an-open-source-package-an-a-to-z-guide-c34cb7139a22)
 + [How to implement a simple hash table in JavaScript](https://www.freecodecamp.org/news/how-to-implement-a-simple-hash-table-in-javascript-cb3b9c1f2997/)
 + [Master the art of looping in JavaScript with these incredible tricks](https://www.freecodecamp.org/news/master-the-art-of-looping-in-javascript-with-these-incredible-tricks-a5da1aa1d6c5/)
++ [Web Development Handbook series - JS, NODE, EXPRESS, HTML..etc](https://flaviocopes.com/page/ebooks/)
 
 ## PHP
 + [Laracast](https://laracast.com)
