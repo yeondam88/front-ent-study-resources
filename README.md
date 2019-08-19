@@ -195,6 +195,7 @@
 + [훌륭한 자바스크립트 개발자가 되는법](https://brunch.co.kr/@chiyodad/9)
 + [2018년에 내가 모르는 기술들..](https://overreacted.io/ko/things-i-dont-know-as-of-2018/)
 + [FED 번역 저장소](https://fedevelopers.github.io/tech.description/?fbclid=IwAR15mPCW7wmrxs0zNhIy9KAQr6-0NXbD623fCyu5dFBViwooROsMChjo7Rw)
++ [프로그래밍 언어들의 간단한 특징](https://blog.sonim1.com/207?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
 
 
 TODO:
