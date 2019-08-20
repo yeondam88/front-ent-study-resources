@@ -144,6 +144,7 @@
 + [How to implement a simple hash table in JavaScript](https://www.freecodecamp.org/news/how-to-implement-a-simple-hash-table-in-javascript-cb3b9c1f2997/)
 + [Master the art of looping in JavaScript with these incredible tricks](https://www.freecodecamp.org/news/master-the-art-of-looping-in-javascript-with-these-incredible-tricks-a5da1aa1d6c5/)
 + [Web Development Handbook series - JS, NODE, EXPRESS, HTML..etc](https://flaviocopes.com/page/ebooks/)
++ [How to Manipulate Arrays in JavaScript](https://medium.com/javascript-in-plain-english/more-ways-to-manipulate-arrays-in-javascript-32461168696d)
 
 ## PHP
 + [Laracast](https://laracast.com)
