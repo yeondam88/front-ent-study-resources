@@ -43,6 +43,7 @@
 + [What I’ve Learned Building 4 React Native Apps Over 3 Years](https://medium.com/input-logic/what-ive-learned-building-4-react-native-apps-over-3-years-6b5035f8282d)
 + [A 2 Hour GraphQL Course for React Developers :](https://learn.hasura.io/graphql/react/introduction)
 + [React Hooks](https://www.youtube.com/watch?v=iVRO0toVdYM)
++ [React with wordpress](https://www.freecodecamp.org/news/wordpress-react-how-to-create-a-modern-web-app-using-wordpress-ef6cc6be0cd0/)
 
 ## JavaScript Related
 + [NHN Ent JavaScript Guide](https://github.com/nhnent/fe.javascript/wiki)
