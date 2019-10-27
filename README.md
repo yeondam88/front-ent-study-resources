@@ -200,6 +200,9 @@
 + [프로그래밍 언어들의 간단한 특징](https://blog.sonim1.com/207?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
 
 
+## Interview Related
++ [System Deisng Primer](https://github.com/donnemartin/system-design-primer)
+
 TODO:
 - [ ] Build client site
 
