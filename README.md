@@ -103,6 +103,7 @@
 + [Atlaskit](https://atlaskit.atlassian.com/)
 
 ## Other usefull resources
++ [Free for dev](https://free-for.dev/#/)
 + [Create your own email address - Nuage](https://www.nuage.email/)
 + [PoiemaWeb - Learn HTML/CSS/JS](http://poiemaweb.com/)
 + [Web Gradients](https://webgradients.com/?ref=producthunt)
