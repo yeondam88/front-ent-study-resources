@@ -147,6 +147,10 @@
 + [Master the art of looping in JavaScript with these incredible tricks](https://www.freecodecamp.org/news/master-the-art-of-looping-in-javascript-with-these-incredible-tricks-a5da1aa1d6c5/)
 + [Web Development Handbook series - JS, NODE, EXPRESS, HTML..etc](https://flaviocopes.com/page/ebooks/)
 + [How to Manipulate Arrays in JavaScript](https://medium.com/javascript-in-plain-english/more-ways-to-manipulate-arrays-in-javascript-32461168696d)
++ [An introduction to functional programming in JavaScript](https://opensource.com/article/17/6/functional-javascript)
++ [HTML email development framework.](https://github.com/maizzle/maizzle)
++ [Lambdaless and AWS CDK](https://www.slideshare.net/mooyoul/lambdaless-and-aws-cdk-191793017)
++ [웹서비스 백엔드 애플리케이션 아키텍처(1)-클린아키텍처](https://brunch.co.kr/@springboot/228#comment)
 
 ## PHP
 + [Laracast](https://laracast.com)
@@ -199,6 +203,8 @@
 + [2018년에 내가 모르는 기술들..](https://overreacted.io/ko/things-i-dont-know-as-of-2018/)
 + [FED 번역 저장소](https://fedevelopers.github.io/tech.description/?fbclid=IwAR15mPCW7wmrxs0zNhIy9KAQr6-0NXbD623fCyu5dFBViwooROsMChjo7Rw)
 + [프로그래밍 언어들의 간단한 특징](https://blog.sonim1.com/207?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
++ [자바스크립트 코딩테스트에서 가장 많이하는 실수들](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EB%A7%8E%EC%9D%B4%ED%95%98%EB%8A%94-%EC%8B%A4%EC%88%98%EB%93%A4-a10df2c884c)
++ [Basic Functional Programming Patterns in JavaScript](https://dev.to/nestedsoftware/basic-functional-programming-patterns-in-javascript-49p2)
 
 
 ## Interview Related
