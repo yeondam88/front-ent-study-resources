@@ -209,9 +209,3 @@
 
 ## Interview Related
 + [System Deisng Primer](https://github.com/donnemartin/system-design-primer)
-
-TODO:
-- [ ] Build client site
-
-
-## Markdown to JSON to create JSON formatted data,,
