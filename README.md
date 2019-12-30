@@ -209,3 +209,6 @@
 
 ## Interview Related
 + [System Deisng Primer](https://github.com/donnemartin/system-design-primer)
+
+## PHP
++[Nested Resource controllers](https://laraveldaily.com/nested-resource-controllers-and-routes-laravel-crud-example/)
