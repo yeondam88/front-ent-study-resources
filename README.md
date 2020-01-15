@@ -74,6 +74,7 @@
 + [JS 101 functions](https://dev.to/karaluton/javascript-101-breaking-down-functions-4p34)
 + [Closures and Currying in JavaScript](https://scotch.io/tutorials/closures-and-currying-in-javascript)
 + [Fullstak application with React](https://www.youtube.com/watch?v=m_u6P5k0vP0&t=57s)
++ [A class-based enum pattern for JS](https://twitter.com/JavaScriptKicks/status/1217030016598450176?s=20)
 
 ## JavaScript Style Guide
 + [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
