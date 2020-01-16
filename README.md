@@ -75,6 +75,7 @@
 + [Closures and Currying in JavaScript](https://scotch.io/tutorials/closures-and-currying-in-javascript)
 + [Fullstak application with React](https://www.youtube.com/watch?v=m_u6P5k0vP0&t=57s)
 + [A class-based enum pattern for JS](https://twitter.com/JavaScriptKicks/status/1217030016598450176?s=20)
++ [JavaScript Visualizer](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
 
 ## JavaScript Style Guide
 + [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
@@ -102,6 +103,7 @@
 + [Base](https://github.com/getbase/base)
 + [Gestalt](https://pinterest.github.io/gestalt/#/)
 + [Atlaskit](https://atlaskit.atlassian.com/)
++ [tailwindCSS](https://tailwindcss.com
 
 ## Other usefull resources
 + [Free for dev](https://free-for.dev/#/)
@@ -129,6 +131,7 @@
 + [JWT Authenticate](https://buff.ly/2Ok1OpG?fbclid=IwAR22KOCnPwOEwqhvnjHJ5RKEq91BnRaywB2JUqh37mMf60diI8O3PQhQAxU)
 + [Free illustrations - Ouch](https://icons8.com/ouch)
 + [Public API collections](https://public-apis.xyz/)
++ [Public API another repo](https://github.com/public-apis/public-apis)
 + [Blob Maker](https://www.blobmaker.app/)
 + [Wefreelancing](http://wefreelancing.com/)
 + [Develop Nodejs with Docker](https://hackernoon.com/a-better-way-to-develop-node-js-with-docker-cd29d3a0093)
