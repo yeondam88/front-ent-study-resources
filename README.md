@@ -103,7 +103,7 @@
 + [Base](https://github.com/getbase/base)
 + [Gestalt](https://pinterest.github.io/gestalt/#/)
 + [Atlaskit](https://atlaskit.atlassian.com/)
-+ [tailwindCSS](https://tailwindcss.com
++ [tailwindCSS](https://tailwindcss.com)
 
 ## Other usefull resources
 + [Free for dev](https://free-for.dev/#/)
