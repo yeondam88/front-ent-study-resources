@@ -217,4 +217,10 @@
 ## PHP
 + [Nested Resource controllers](https://laraveldaily.com/nested-resource-controllers-and-routes-laravel-crud-example/)
 
+## Laravel
++ [Laravel-AdminLTE3](https://t.co/TE6rHlbVo5?amp=1)
++ [Laravel Eloquent Filter (All in one)](https://medium.com/@mohammadfouladgarphp/laravel-eloquent-filter-all-in-one-d903ededbd19)
++ [Creating your own user management system with roles](https://www.reddit.com/r/laravel/comments/eojgx7/creating_your_own_user_management_system_with/)
++ [Laravel Demo - Hotel-booking](https://github.com/LaravelDaily/Hotel-Booking)
++ [Laravel polymorphic relationships](https://github.com/LaravelDaily/Laravel-polymorphic-demo)
 Twitter Liked -> Add link to here.
