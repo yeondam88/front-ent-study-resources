@@ -224,3 +224,4 @@
 + [Laravel Demo - Hotel-booking](https://github.com/LaravelDaily/Hotel-Booking)
 + [Laravel polymorphic relationships](https://github.com/LaravelDaily/Laravel-polymorphic-demo)
 Twitter Liked -> Add link to here.
++ [Laravel daily](https://github.com/laraveldaily)
