@@ -225,3 +225,4 @@
 + [Laravel polymorphic relationships](https://github.com/LaravelDaily/Laravel-polymorphic-demo)
 Twitter Liked -> Add link to here.
 + [Laravel daily](https://github.com/laraveldaily)
++ [Single Page Laravel](https://singlepagelaravel.com/)
