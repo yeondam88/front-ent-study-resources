@@ -155,6 +155,7 @@
 + [HTML email development framework.](https://github.com/maizzle/maizzle)
 + [Lambdaless and AWS CDK](https://www.slideshare.net/mooyoul/lambdaless-and-aws-cdk-191793017)
 + [웹서비스 백엔드 애플리케이션 아키텍처(1)-클린아키텍처](https://brunch.co.kr/@springboot/228#comment)
++ [The CSS Cascade](https://wattenberger.com/blog/css-cascade)
 
 ## PHP
 + [Laracast](https://laracast.com)
