@@ -76,6 +76,8 @@
 + [Fullstak application with React](https://www.youtube.com/watch?v=m_u6P5k0vP0&t=57s)
 + [A class-based enum pattern for JS](https://twitter.com/JavaScriptKicks/status/1217030016598450176?s=20)
 + [JavaScript Visualizer](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
++ [11 Recommended Tools for Frontend Developers](https://blog.bitsrc.io/11-recommended-tools-for-frontend-developers-97942c35f9bd?gi=5bb1e22a2db)
++ [Why You Should Be Using TypeScript + GraphQL](https://levelup.gitconnected.com/why-you-should-be-using-typescript-graphql-5d87633f5363?gi=af0dd4dfeff9)
 
 ## JavaScript Style Guide
 + [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
