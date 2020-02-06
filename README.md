@@ -78,6 +78,7 @@
 + [JavaScript Visualizer](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
 + [11 Recommended Tools for Frontend Developers](https://blog.bitsrc.io/11-recommended-tools-for-frontend-developers-97942c35f9bd?gi=5bb1e22a2db)
 + [Why You Should Be Using TypeScript + GraphQL](https://levelup.gitconnected.com/why-you-should-be-using-typescript-graphql-5d87633f5363?gi=af0dd4dfeff9)
++ [Awesome TailwindCSS](https://github.com/aniftyco/awesome-tailwindcss)
 
 ## JavaScript Style Guide
 + [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
