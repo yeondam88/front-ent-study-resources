@@ -181,6 +181,7 @@
 + [Heroku](https://heroku.com)
 + [Surge](https://surge.sh)
 + [Netlify](https://netlify.com)
++ [now](https://zeit.co)
 
 ## Awesome Youtube Channel for follow
 + [Travery Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
@@ -204,6 +205,7 @@
 + [ConvNetJS](https://github.com/karpathy/convnetjs)
 
 ## Web Development Podcast
++ [stdout.fm](https://stdout.fm/)
 + [Syntax](https://syntax.fm)
 + [React Podcast](https://reactpodcast.simplecast.fm/)
 + [Software Engineering](https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/)
