@@ -44,6 +44,7 @@
 + [A 2 Hour GraphQL Course for React Developers :](https://learn.hasura.io/graphql/react/introduction)
 + [React Hooks](https://www.youtube.com/watch?v=iVRO0toVdYM)
 + [React with wordpress](https://www.freecodecamp.org/news/wordpress-react-how-to-create-a-modern-web-app-using-wordpress-ef6cc6be0cd0/)
++ [React SSR](https://joshwcomeau.com/react/the-perils-of-rehydration/)
 
 ## JavaScript Related
 + [NHN Ent JavaScript Guide](https://github.com/nhnent/fe.javascript/wiki)
@@ -162,6 +163,7 @@
 + [A guide to fully understanding Redis](https://blog.logrocket.com/guide-to-fully-understanding-redis/?utm_source=jsk&utm_medium=referral&utm_campaign=jsk_q12020#utm_source=jsk&utm_medium=referral&utm_campaign=jsk_q12020)
 + [CSS hacks](https://dev.to/gajus/my-favorite-css-hack-32g3)
 + [이번에야 말로 CSS Flex를 익혀보자](https://studiomeal.com/archives/197)
++ [/bin 디렉토리와 /usr/bin/ 디렉토리 ](https://wookiist.tistory.com/10)
 
 ## PHP
 + [Laracast](https://laracast.com)
